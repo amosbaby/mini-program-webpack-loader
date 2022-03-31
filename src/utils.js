@@ -37,7 +37,7 @@ exports.getDistPath = function (path) {
 
   if (path === outputPath) return path
 
-  path = path.replace(/(\.\.\/)?/g, ($1) => $1 ? '_/' : '')
+  path = path? path.replace(/(\.\.\/)?/g, ($1) => $1 ? '_/' : '') :''
 
   if (isAbsolute(path)) {
     fullPath = path
