@@ -2,12 +2,14 @@
 
 基于 webpack 4.0 的小程序打包工具。
 
+## 原作者已经不维护，另外有bug，所以fork出来改了bug。
+
 **项目依赖 async/await, Set/Map, spread 等 es6+ 语法**
 
 ## 安装
 
 ``` bash
-  $ npm i mini-program-webpack-loader --dev
+  $ npm i th-mini-program-webpack-loader --save-dev
 ```
 
 ## 示例
