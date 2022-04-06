@@ -1,7 +1,7 @@
 {
-  "name": "mini-program-webpack-loader",
-  "version": "1.2.9",
-  "description": "mini-program webpack loader",
+  "name": "th-mini-program-webpack-loader",
+  "version": "1.2.10",
+  "description": "mini-program webpack loader for tehang",
   "main": "src/index.js",
   "scripts": {
     "build": "npx babel src --out-dir lib",
