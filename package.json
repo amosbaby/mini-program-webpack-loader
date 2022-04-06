@@ -1,6 +1,6 @@
 {
   "name": "th-mini-program-webpack-loader",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "mini-program webpack loader for tehang",
   "main": "src/index.js",
   "scripts": {

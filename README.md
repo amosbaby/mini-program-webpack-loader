@@ -12,7 +12,7 @@
 ## 安装
 
 ``` bash
-  $ npm i mini-program-webpack-loader --dev
+  $ npm i th-mini-program-webpack-loader --dev
 ```
 
 ## 介绍
